@@ -2,3 +2,5 @@
 
 - Fixed issue with form validation.
 
+- Added user authentication.
+
