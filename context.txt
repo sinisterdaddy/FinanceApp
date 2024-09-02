@@ -4,3 +4,5 @@
 
 - Added user authentication.
 
+- Refactored codebase for better readability.
+
