@@ -6,3 +6,5 @@
 
 - Refactored codebase for better readability.
 
+- Implemented dark mode.
+
