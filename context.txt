@@ -10,3 +10,5 @@
 
 - Improved database query performance.
 
+- Resolved CORS errors on login.
+
