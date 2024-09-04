@@ -8,3 +8,5 @@
 
 - Implemented dark mode.
 
+- Improved database query performance.
+
