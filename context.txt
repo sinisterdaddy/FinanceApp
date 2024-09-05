@@ -12,3 +12,5 @@
 
 - Resolved CORS errors on login.
 
+- Optimized CSS for performance.
+
